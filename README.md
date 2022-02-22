@@ -1,10 +1,8 @@
 # Django ChatApp
 
+![](made-with-django.svg)
+
 Clean and simple to-do list application made with Django framework.
-
-![](Home.png)
-
-![](Login.png)
 
 ## Features
 
@@ -13,6 +11,10 @@ Clean and simple to-do list application made with Django framework.
 - Login and register
 - Mark tasks as completed
 - Clean UI
+
+![](Home.png)
+
+![](Login.png)
 
 ## Setup ##
 

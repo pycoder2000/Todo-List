@@ -1,4 +1,4 @@
-# Django ChatApp
+# To Do List
 
 ![](made-with-django.svg)
 
